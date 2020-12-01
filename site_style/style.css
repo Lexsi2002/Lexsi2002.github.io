@@ -94,8 +94,8 @@ input[type=text] {
 
 .white {
 	position: relative;
-	padding-left: 20px;
-	padding-right: 10px;
+	margin-left: 20px;
+	margin-right: 10px;
 }
 
 .checkboxed {
