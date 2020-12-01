@@ -73,6 +73,7 @@ left:12px;
 .img_check {
 	position: absolute;
 	width:20px;
+	margin-right: 10px;
 }
 
 input[type=text] {
