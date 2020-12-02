@@ -94,7 +94,7 @@ input[type=text] {
 }
 
 .white {
-	position: relative;
+	position: absolute;
 	margin-left: 10px;
 	margin-right: 10px;
 }
