@@ -1,0 +1,200 @@
+{
+  "6000": {
+    "id": 6000,
+    "color": 10,
+    "star": 6,
+    "xp": 450551,
+    "level": 130,
+    "slots": [
+      25,
+      50,
+      50,
+      25,
+      50,
+      50
+    ],
+    "skills": {
+      "6000": 130,
+      "6001": 130
+    },
+    "power": 181943,
+    "type": "pet",
+    "perks": [
+      8
+    ],
+    "name": null,
+    "armorPenetration": 47911,
+    "intelligence": 11064,
+    "strength": 12360
+  },
+  "6001": {
+    "id": 6001,
+    "color": 10,
+    "star": 6,
+    "xp": 450551,
+    "level": 130,
+    "slots": [
+      25,
+      50,
+      50,
+      25,
+      50,
+      50
+    ],
+    "skills": {
+      "6005": 130,
+      "6006": 130
+    },
+    "power": 181943,
+    "type": "pet",
+    "perks": [
+      5,
+      9
+    ],
+    "name": null,
+    "intelligence": 11064,
+    "magicPenetration": 47911,
+    "strength": 12360
+  },
+  "6002": {
+    "id": 6002,
+    "color": 10,
+    "star": 6,
+    "xp": 450551,
+    "level": 130,
+    "slots": [
+      25,
+      50,
+      50,
+      25,
+      50,
+      50
+    ],
+    "skills": {
+      "6010": 130,
+      "6011": 130
+    },
+    "power": 181943,
+    "type": "pet",
+    "perks": [
+      7
+    ],
+    "name": null,
+    "intelligence": 11064,
+    "magicPenetration": 47911,
+    "strength": 12360
+  },
+  "6003": {
+    "id": 6003,
+    "color": 10,
+    "star": 6,
+    "xp": 450551,
+    "level": 130,
+    "slots": [
+      25,
+      50,
+      50,
+      25,
+      50,
+      50
+    ],
+    "skills": {
+      "6015": 130,
+      "6016": 130
+    },
+    "power": 181943,
+    "type": "pet",
+    "perks": [
+      8
+    ],
+    "name": null,
+    "intelligence": 11064,
+    "magicPenetration": 47911,
+    "strength": 12360
+  },
+  "6004": {
+    "id": 6004,
+    "color": 10,
+    "star": 6,
+    "xp": 450551,
+    "level": 130,
+    "slots": [
+      25,
+      50,
+      50,
+      25,
+      50,
+      50
+    ],
+    "skills": {
+      "6020": 130,
+      "6021": 130
+    },
+    "power": 181943,
+    "type": "pet",
+    "perks": [
+      5
+    ],
+    "name": null,
+    "armorPenetration": 47911,
+    "intelligence": 11064,
+    "strength": 12360
+  },
+  "6005": {
+    "id": 6005,
+    "color": 10,
+    "star": 6,
+    "xp": 450551,
+    "level": 130,
+    "slots": [
+      25,
+      50,
+      50,
+      25,
+      50,
+      50
+    ],
+    "skills": {
+      "6025": 130,
+      "6026": 130
+    },
+    "power": 181943,
+    "type": "pet",
+    "perks": [
+      7
+    ],
+    "name": null,
+    "armorPenetration": 47911,
+    "intelligence": 11064,
+    "strength": 12360
+  },
+  "6006": {
+    "id": 6006,
+    "color": 10,
+    "star": 6,
+    "xp": 450551,
+    "level": 130,
+    "slots": [
+      25,
+      50,
+      50,
+      25,
+      50,
+      50
+    ],
+    "skills": {
+      "6030": 130,
+      "6031": 130
+    },
+    "power": 181943,
+    "type": "pet",
+    "perks": [
+      5,
+      9
+    ],
+    "name": null,
+    "intelligence": 11064,
+    "magicPenetration": 47911,
+    "strength": 12360
+  }
+}
