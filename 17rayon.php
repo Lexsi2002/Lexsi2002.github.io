@@ -10,8 +10,8 @@
 <div style="position:fixed; top:0; left:0; width:100%; height:100%;">
 <div style="height:100%; display:table; margin:0 auto;">
 <div style="vertical-align:middle; display:table-cell;">
-<!-- <iframe src = "17rayon.swf" width="800" height="730"> </iframe> -->
-<object type="application/x-shockwave-flash" data="17rayon.swf" width="800" height="730"><param name="movie" value="17rayon.swf"></object>
+<iframe src = "17rayon.swf" width="800" height="730"> </iframe>
+<!-- object type="application/x-shockwave-flash" data="17rayon.swf" width="800" height="730"><param name="movie" value="17rayon.swf"></object -->
 </div>
 </div>
 </div>
