@@ -138,7 +138,6 @@ label {
 	top:6px;
 	position:absolute;
 	width:50px;
-	border-radius:10px;
 }
 
 .rank_icon{
@@ -147,15 +146,11 @@ label {
 	width:62px;
 }
 
-/*
-.star_icon {
+.pet_rank_icon{
+	left:0;
 	position:absolute;
-	z-index:9999;
-	height:14px;
-	width:11px;
-	left:40%;
-	bottom:7px;
-}*/
+	width:62px;
+}
 
 .star_icon{
 	position:relative;
@@ -167,7 +162,6 @@ label {
 
 .star6_icon{
 	position:absolute;
-	z-index:9997;
 	left: 11px;
 	margin-top:38px;
 }
