@@ -154,14 +154,15 @@ label {
 
 .star_icon{
 	position:relative;
+	z-index:9999;
 	width:13px;
 	float:left;
 	margin-top:48px;
-	  display: block;
 }
 
 .star6_icon{
 	position:absolute;
+	z-index:9999;
 	left: 11px;
 	margin-top:38px;
 }
