@@ -103,7 +103,7 @@ label {
 
 .heroes {
 	width:100%;
-	height:70px;
+	height:65px;
 	margin:0 auto;
 }
 
@@ -142,14 +142,21 @@ label {
 
 .rank_icon{
 	left:0;
+	z-index:9997;
 	position:absolute;
 	width:62px;
 }
 
 .pet_rank_icon{
 	left:0;
+	z-index:9997;
 	position:absolute;
 	width:62px;
+}
+
+.star {
+	left:6%;
+	position:relative;
 }
 
 .star_icon{
@@ -163,7 +170,7 @@ label {
 .star6_icon{
 	position:absolute;
 	z-index:9999;
-	left: 11px;
+	left: 13px;
 	margin-top:38px;
 }
 
