@@ -115,6 +115,14 @@ label {
 	width:28px;
 }
 
+.level2_icon{
+	position:absolute;
+	z-index:9998;
+	left:16px;
+	top:0;
+	width:28px;
+}
+
 .level_text{
 	position:absolute;
 	z-index:9999;
@@ -140,6 +148,13 @@ label {
 	width:50px;
 }
 
+.titan_icon{
+	left:6px;
+	top:6px;
+	position:absolute;
+	width:48px;
+}
+
 .rank_icon{
 	left:0;
 	z-index:9997;
@@ -154,6 +169,13 @@ label {
 	width:62px;
 }
 
+.titan_rank_icon{
+	left:0;
+	z-index:9997;
+	position:absolute;
+	width:67px;
+}
+
 .star {
 	position:absolute;
 }
@@ -166,6 +188,13 @@ label {
 	margin-top:48px;
 }
 
+.star5_icon{
+	position:absolute;
+	z-index:9999;
+	left: 10px;
+	margin-top:38px;
+}
+
 .star6_icon{
 	position:absolute;
 	z-index:9999;
@@ -174,6 +203,14 @@ label {
 }
 
 .one_hero {
+	position:relative;
+	margin-top:2px;
+	width:65px;
+	height:65px;
+	float:left;
+}
+
+.one_titan {
 	position:relative;
 	margin-top:2px;
 	width:65px;
