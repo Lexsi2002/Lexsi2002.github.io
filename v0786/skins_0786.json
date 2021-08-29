@@ -122396,7 +122396,7 @@
 		"specialOffer" : null,
 		"enabled" : 1,
 		"lockedUntil" : null,
-		"notObtainable" : 1,
+		"notObtainable" : 0,
 		"battlePass" : null
 	},
 	"193" : {
@@ -123075,7 +123075,7 @@
 		"specialOffer" : null,
 		"enabled" : 1,
 		"lockedUntil" : null,
-		"notObtainable" : 1,
+		"notObtainable" : 0,
 		"battlePass" : null
 	},
 	"194" : {
@@ -123754,7 +123754,7 @@
 		"specialOffer" : null,
 		"enabled" : 1,
 		"lockedUntil" : null,
-		"notObtainable" : 1,
+		"notObtainable" : 0,
 		"battlePass" : null
 	},
 	"195" : {
@@ -124433,7 +124433,7 @@
 		"specialOffer" : null,
 		"enabled" : 1,
 		"lockedUntil" : null,
-		"notObtainable" : 1,
+		"notObtainable" : 0,
 		"battlePass" : null
 	},
 	"196" : {
@@ -138101,7 +138101,7 @@
 		"iconAsset" : "Darkness_1_new",
 		"iconAtlas" : "14",
 		"specialOffer" : null,
-		"enabled" : 1,
+		"enabled" : 0,
 		"lockedUntil" : null,
 		"notObtainable" : 0,
 		"battlePass" : null
