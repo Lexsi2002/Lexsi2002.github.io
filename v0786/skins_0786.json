@@ -123074,8 +123074,8 @@
 		"iconAtlas" : "14",
 		"specialOffer" : null,
 		"enabled" : 1,
-		"lockedUntil" : null,
-		"notObtainable" : 0,
+		"lockedUntil" : "2021-08-26 2:00",
+		"notObtainable" : 1,
 		"battlePass" : null
 	},
 	"194" : {
