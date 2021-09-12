@@ -17,7 +17,7 @@ margin: 0 auto;
     font-family: Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.hidden {
+#hidden {
     display: none; // скрывает текст
 }   
 
@@ -37,7 +37,7 @@ margin: 0 auto;
     -ms-filter: brightness(130%);
 }
 
-.settings_button {
+#settings_button {
 	position:absolute;
 	top:30px;
 	left:410px;
@@ -45,7 +45,7 @@ margin: 0 auto;
 	cursor: pointer;
 }
 
-.settings_button:not(.disabled):hover {
+#settings_button:not(.disabled):hover {
     filter: brightness(130%);
     -webkit-filter: brightness(130%);
     -moz-filter: brightness(130%);
