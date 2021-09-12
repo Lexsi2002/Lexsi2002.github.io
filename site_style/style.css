@@ -9,6 +9,18 @@ width:500px;
 margin: 0 auto;
 }
 
+.content {
+    margin-top: 20px;
+    padding: 20px;
+    border: solid 1px rgb(216, 159, 109);
+    border-radius: 4px;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.hidden {
+    display: none; // скрывает текст
+}   
+
 .close_button {
 	position:absolute;
 	top:-20px;
