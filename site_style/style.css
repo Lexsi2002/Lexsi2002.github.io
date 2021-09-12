@@ -24,6 +24,22 @@ margin: 0 auto;
     -o-filter: brightness(130%);
     -ms-filter: brightness(130%);
 }
+
+.settings_button {
+	position:absolute;
+	top:30px;
+	left:410px;
+	z-index:2001;
+	cursor: pointer;
+}
+
+.settings_button:not(.disabled):hover {
+    filter: brightness(130%);
+    -webkit-filter: brightness(130%);
+    -moz-filter: brightness(130%);
+    -o-filter: brightness(130%);
+    -ms-filter: brightness(130%);
+}
   
 .level_text {
 	position:absolute;
