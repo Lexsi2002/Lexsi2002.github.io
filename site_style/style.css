@@ -17,7 +17,7 @@ margin: 0 auto;
     font-family: Calibri, 'Trebuchet MS', sans-serif;
 }
 
-#hidden {
+.hidden {
     display: none; // скрывает текст
 }   
 
