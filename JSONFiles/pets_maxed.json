@@ -196,5 +196,34 @@
     "intelligence": 11064,
     "magicPenetration": 47911,
     "strength": 12360
-  }
+  },
+	"6007": {
+		"id": 6007,
+		"color": 10,
+		"star": 6,
+		"xp": 450551,
+		"level": 130,
+		"slots": [
+			25,
+			50,
+			50,
+			25,
+			50,
+			50
+		],
+		"skills": {
+			"6033": 130,
+			"6034": 130
+		},
+		"power": 181943,
+		"type": "pet",
+		"perks": [
+			8
+		],
+		"name": null,
+		"intelligence": 11064,
+		"magicPenetration": 47911,
+		"strength": 12360
+		}
+	}
 }
