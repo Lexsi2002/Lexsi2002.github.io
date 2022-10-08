@@ -5,8 +5,9 @@ border: 3px solid #ca965d;
 border-radius: 10px;
 position: absolute !important;
 z-index: 2000 !important;
-width: 500px !important;
+width: 520px !important;
 margin: 0 auto !important;
+margin-left: -200px !important;
 }
 
 .content {
