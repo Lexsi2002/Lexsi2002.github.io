@@ -6,6 +6,7 @@ border-radius: 10px;
 position: absolute !important;
 z-index: 2000 !important;
 width: 520px !important;
+height: min-content !important;
 margin: 0 auto !important;
 margin-left: -200px !important;
 text-align: center;
