@@ -42,8 +42,8 @@ text-align: center;
 
 .settings_button {
 	position:absolute;
-	top:30px;
-	left:410px;
+	top:10px;
+	left:390px;
 	z-index:2001;
 	cursor: pointer;
 }
