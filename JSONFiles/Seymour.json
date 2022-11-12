@@ -1,0 +1,64 @@
+{
+				"defenders": [{
+					"1": {
+						"id": "1070",
+						"xp": 0,
+						"level": "130",
+						"color": 18,
+						"slots": [],
+						"skills": {
+							"1086": "130",
+							"1087": "130",
+							"1088": "130",
+							"1089": "130",
+							"1090": "130",
+							"1091": "130"
+						},
+						"power": 1155698,
+						"star": "6",
+						"runes": [0, 0, 0, 0, 0],
+						"skins": [],
+						"currentSkin": 0,
+						"titanGiftLevel": 0,
+						"titanCoinsSpent": null,
+						"artifacts": null,
+						"scale": 2.86,
+						"petId": 0,
+						"type": "hero",
+						"perks": null,
+						"physicalAttack": 301224,
+						"agility": 84534,
+						"intelligence": 84534,
+						"strength": 169034,
+						"skin": 0,
+						"favorPetId": 0,
+						"favorPower": 0,
+						"reward": {
+							"fragmentHero": {
+								"44": 1
+							},
+							"gold": 6649
+						}
+					}
+				}],
+				"effects": {
+					"battleConfig": "mission_boss"
+				},
+				"reward": {
+					"experience": 30,
+					"heroXp": {
+						"46": 830,
+						"35": 830,
+						"40": 830,
+						"41": 830,
+						"2": 830
+					},
+					"fragmentHero": {
+						"44": 1
+					},
+					"gold": 6649
+				},
+				"startTime": 1622227802,
+				"seed": 4225992709,
+				"type": "mission"
+			}
