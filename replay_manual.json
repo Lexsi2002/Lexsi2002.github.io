@@ -1,122 +1,78 @@
 {
-  "date": 1619719658.230017,
-  "results": [
-    {
-      "ident": "body",
-      "result": {
-        "response": {
-          "replay": {
-            "userId": "761790",
-            "typeId": "761790",
-            "attackers": {
-            },
-            "defenders": [
-              {
-              }
-            ],
-            "effects": {
-              "battleConfig": "pvp_manual"
-            },
-            "reward": [],
-            "startTime": "1619719587",
-            "seed": "2839859467",
-            "type": "challenge",
-            "id": "1619719658221026608",
-            "progress": [
-              {
-                "v": 189,
-                "b": 0,
-                "seed": -1455107829,
-                "attackers": {
-                  "input": [
-                    "auto",
-                    0,
-                    0,
-                    "teamCustom",
-                    214,
-                    17.01199984550476,
-                    2,
-                    "cast",
-                    308,
-                    25.276999950408936,
-                    35,
-                    "cast",
-                    337,
-                    27.542999982833862,
-                    33,
-                    "cast",
-                    337,
-                    27.542999982833862,
-                    3,
-                    "cast",
-                    337,
-                    27.542999982833862,
-                    27,
-                    "teamCustom",
-                    591,
-                    33.52499985694885,
-                    2,
-                    "cast",
-                    793,
-                    47.58899974822998,
-                    27,
-                    "cast",
-                    793,
-                    47.58899974822998,
-                    4,
-                    "cast",
-                    793,
-                    47.58899974822998,
-                    3
-                  ],
-                  "heroes": {
-                    "3": {
-                      "hp": 66243,
-                      "energy": 800,
-                      "isDead": false
-                    },
-                    "4": {
-                      "hp": 185115,
-                      "energy": 100,
-                      "isDead": false
-                    },
-                    "27": {
-                      "hp": 99303,
-                      "energy": 200,
-                      "isDead": false
-                    },
-                    "33": {
-                      "hp": 137031,
-                      "energy": 800,
-                      "isDead": false
-                    },
-                    "35": {
-                      "hp": 147555,
-                      "energy": 583,
-                      "isDead": false
-                    },
-                    "6002": {
-                      "hp": -1,
-                      "energy": 959,
-                      "isDead": false
-                    }
-                  }
-                },
-                "defenders": {
-                  "input": [],
-                  "heroes": []
-                }
-              }
-            ],
+    "date": 1668311670.361168,
+    "results": [{
+            "ident": "body",
             "result": {
-              "win": true,
-              "stars": 3,
-              "clientVersion": 189
-            },
-            "endTime": 1619719658
-          }
+                "response": {
+                    "replay": {
+                        "userId": "8049111",
+                        "typeId": "8049111",
+                        "attackers": {                         
+                        },
+                        "defenders": [[
+                            ]],
+                        "effects": {
+                            "battleConfig": "pvp_manual"
+                        },
+                        "reward": [],
+                        "startTime": "1668311578",
+                        "seed": "2944908176",
+                        "type": "challenge",
+                        "id": "1668311670332318095",
+                        "progress": [{
+                                "v": 216,
+                                "b": 0,
+                                "seed": -1350059120,
+                                "attackers": {
+                                    "input": ["auto", 0, 0, "teamCustom", 517, 20.175999879837036, 2, "cast", 644, 21.977999925613403, 55, "cast", 644, 21.977999925613403, 4, "auto", 644, 21.977999925613403, "auto", 1060, 32.83466674520069, "cast", 1152, 35.26266671849781, 52, "teamCustom", 1152, 35.26266671849781, 2, "auto", 1344, 38.020666853919565],
+                                    "heroes": {
+                                        "6008": {
+                                            "hp": -1,
+                                            "energy": 442,
+                                            "isDead": false
+                                        }
+                                    }
+                                },
+                                "defenders": {
+                                    "input": [],
+                                    "heroes": [{
+                                            "hp": 328995,
+                                            "energy": 201,
+                                            "isDead": false
+                                        }, {
+                                            "hp": 174990,
+                                            "energy": 200,
+                                            "isDead": false
+                                        }, {
+                                            "hp": 155844,
+                                            "energy": 501,
+                                            "isDead": false
+                                        }, {
+                                            "hp": 200517,
+                                            "energy": 616,
+                                            "isDead": false
+                                        }, {
+                                            "hp": 450902,
+                                            "energy": 1000,
+                                            "isDead": false
+                                        }, {
+                                            "hp": -1,
+                                            "energy": 726,
+                                            "isDead": false
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "endTime": 1668311670,
+                        "result": {
+                            "win": false,
+                            "stars": 0,
+                            "clientVersion": 216
+                        }
+                    }
+                }
+            }
         }
-      }
-    }
-  ]
+    ]
 }
