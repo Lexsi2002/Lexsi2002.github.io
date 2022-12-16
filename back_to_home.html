@@ -9,21 +9,17 @@
 
 <body>
 <div class="item-root" style="position:relative; margin: auto;">
-  <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="900" height="507" id="flash-content" align="middle" class="item-direct-container resizable" style="display: block;">
-    <param name="allowScriptAccess" value="always">
-    <param name="movie" value="https://lexsi2002.github.io/back_to_home.swf">
-    <param name="quality" value="high">
-    <param name="wmode" value="window">
-    <param name="allowfullscreen" value="false">
-    <param name="allowfullscreeninteractive" value="false">
-    <param name="fullScreenAspectRatio" value="">
-    <param name="quality" value="">
-    <param name="play" value="true">
-    <param name="loop" value="true">
-    <param name="menu" value="">
-    <param name="hasPriority" value="true">
-    <embed src="https://lexsi2002.github.io/back_to_home.swf" class="item-direct-container resizable" width="900" height="507" id="gamefileEmbed" name="flash-content" align="middle" wmode="window" allowfullscreen="false" allowfullscreeninteractive="false" fullscreenaspectratio="" quality="high" play="true" loop="true" menu="" allowscriptaccess="always" haspriority="true" type="application/x-shockwave-flash" pluginspage="https://www.adobe.com/go/getflashplayer" style="display: block;">
-  </object>
+  <script>
+    window.RufflePlayer = window.RufflePlayer || {};
+    window.addEventListener("load", (event) => {
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
+        const container = document.getElementById("container");
+        container.appendChild(player);
+        player.load("back_to_home.swf");
+    });
+</script>
+<script src="path/to/ruffle/ruffle.js"></script>
 </div>
 </body>
 </html>
