@@ -15,7 +15,11 @@
         const player = ruffle.createPlayer();
         const container = document.getElementById("container");
         container.appendChild(player);
-        player.load("https://lexsi2002.github.io/back_to_home.swf");
+        player.load({
+        url: "https://lexsi2002.github.io/back_to_home.swf",
+        parameters: "", // Also known as "flashvars", this is a string indicating values that may be passed to and loaded by the movie (e.g. "key1=value1&key2=value2").
+        allowScriptAccess: false, // A boolean indicating whether the file is allowed to interact with the page through JavaScript.
+});
     });
 </script>
 <script src="https://lexsi2002.github.io/ruffle/2022_12_15/ruffle.js"></script>
